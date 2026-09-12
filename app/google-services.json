@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "745105824298",
+    "firebase_url": "https://agencia-de-viajes-bdcbe-default-rtdb.firebaseio.com",
+    "project_id": "agencia-de-viajes-bdcbe",
+    "storage_bucket": "agencia-de-viajes-bdcbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745105824298:android:4a85330b3746b6e0890153",
+        "android_client_info": {
+          "package_name": "com.example.viajesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYvGSYsQEH_dKCp3g4DUolZqyBcidxkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

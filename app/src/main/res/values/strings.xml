@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agencia Viajes</string>
+
+    <!-- Login / Registro -->
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="go_to_register">¿No tienes cuenta? Regístrate</string>
+    <string name="go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <!-- Destinos -->
+    <string name="catalogo_title">Catálogo de Destinos</string>
+    <string name="add_destino">Agregar Destino</string>
+    <string name="edit_destino">Editar Destino</string>
+    <string name="nombre_destino">Nombre del destino</string>
+    <string name="pais">País</string>
+    <string name="precio">Precio del paquete</string>
+    <string name="descripcion">Descripción del viaje</string>
+    <string name="seleccionar_imagen">Seleccionar imagen</string>
+    <string name="guardar">Guardar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar_eliminar">¿Estás seguro de eliminar este destino?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="sin_destinos">No hay destinos registrados</string>
+    <string name="imagen_requerida">Debes seleccionar una imagen</string>
+    <string name="descripcion_minima">La descripción debe tener al menos 20 caracteres</string>
+    <string name="precio_invalido">El precio debe ser mayor a 0</string>
+    <string name="campos_obligatorios">Todos los campos son obligatorios</string>
+    <string name="error_general">Ocurrió un error. Intenta de nuevo</string>
+    <string name="exito_guardar">Destino guardado correctamente</string>
+    <string name="exito_actualizar">Destino actualizado correctamente</string>
+    <string name="exito_eliminar">Destino eliminado correctamente</string>
+    <string name="cargando">Cargando…</string>
+
+    <!-- Países para Spinner -->
+    <string-array name="paises">
+        <item>Seleccione un país</item>
+        <item>México</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Italia</item>
+        <item>Estados Unidos</item>
+        <item>Canadá</item>
+        <item>Brasil</item>
+        <item>Argentina</item>
+        <item>Colombia</item>
+        <item>Perú</item>
+        <item>Chile</item>
+        <item>Japón</item>
+        <item>Tailandia</item>
+        <item>Australia</item>
+        <item>Egipto</item>
+        <item>Grecia</item>
+        <item>Portugal</item>
+        <item>Alemania</item>
+        <item>Reino Unido</item>
+    </string-array>
+</resources>
