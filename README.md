@@ -80,7 +80,15 @@ com.example.viajesapp/
     └── menu/
         └── menu_catalogo.xml          # Opción de cerrar sesión
 ```
-
+## Reglas de Realtime Data Base
+```text
+{
+  "rules": {
+    ".read": "true", 
+    ".write": "true",  
+  }
+}
+```
 ## Reglas de Seguridad (Firestore)
 ```text
 textrules_version = '2';
@@ -91,7 +99,6 @@ service cloud.firestore {
     }
   }
 }
-Nota: Las imágenes se guardan en el almacenamiento local del dispositivo (filesDir/destinos_images/), no en Firebase Storage.
 ```
 Nota: Las imágenes se guardan en el almacenamiento local del dispositivo (filesDir/destinos_images/), no en Firebase Storage.
 
